@@ -1,8 +1,10 @@
 # Twenty Years of R
 
-Presented at SatRDays DC, March 2020
+Version 1.0.0 of R was released to the world on February 29, 2000, and had already had a significant impact on statistical data analysis software even at that point. In this talk, I’ll look back on the history of the R project: its predecessor, S; the open-source movement and its connection with R; its growth in academic and research communities; and its adoption by commercial enterprises.
 
-Slides: (coming)
+## Slides
+
+Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: coming soon
 
 ## Links
 
