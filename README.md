@@ -20,4 +20,6 @@ Slides: (coming)
 
 Photo of Ross Ihaka and Robert Gentleman: Robert Gentleman (personal communication)
 
+[CRAN packages chart](https://jozef.io/r921-happy-birthday-r/), Jozef Hajnala
+
 ["Bit" art](http://github.com/ashleymcnamara/Developer-Advocate-Bit): Ashley McNamara
