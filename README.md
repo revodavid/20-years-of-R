@@ -10,7 +10,7 @@ Slides: (coming)
 
 [R, Past and Future History](https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf) (R, Ihaka, 1998)
 
-[A brief History of R and some Thoughts about Its Future](https://youtu.be/Uey45MSg8Y4) (P. Dalgaard, 2020)
+[A brief History of R and some Thoughts about Its Future](https://youtu.be/Uey45MSg8Y4) (P. Dalgaard, presentation for [Celebration 2020](https://biostatistics.dk/celebration2020/index.html))
 
 [Coronavirus chart](https://twitter.com/jburnmurdoch/status/1242952003262832641) (John Burn-Murdoch for the Financial Times, 25 Mar 2020)
 
