@@ -8,9 +8,11 @@ Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: coming soon
 
 ## Links
 
+[R, Other Languages and Object-Oriented Programming](http://statweb.stanford.edu/~jmc4/talks/Stanford2010_slides.pdf) (J. M. Chambers, 2010)
+
 [Text of first public announcement of R](https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html)
 
-[R, Past and Future History](https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf) (R, Ihaka, 1998)
+[R, Past and Future History](https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf) (R. Ihaka, 1998)
 
 [A brief History of R and some Thoughts about Its Future](https://youtu.be/Uey45MSg8Y4) (P. Dalgaard, presentation for [Celebration 2020](https://biostatistics.dk/celebration2020/index.html))
 
@@ -18,7 +20,7 @@ Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: coming soon
 
 ## Media Credits
 
-[Title image](https://twitter.com/HannahOish/status/1036353875605737472), Dr. Hannah Owens
+[R 1.0.0 CD-ROM](https://twitter.com/HannahOish/status/1036353875605737472), Dr. Hannah Owens
 
 Photo of Ross Ihaka and Robert Gentleman: Robert Gentleman (personal communication)
 
