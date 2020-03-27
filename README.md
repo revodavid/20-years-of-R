@@ -18,6 +18,8 @@ Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: coming soon
 
 [Donate to the R Foundation](https://www.r-project.org/foundation/donations.html)
 
+[First public availability of RStudio](https://blog.rstudio.com/2011/02/28/rstudio-new-open-source-ide-for-r/)
+
 Microsoft support of R: [MRAN](https://mran.microsoft.com/?WT.mc_id=satrdaysdc-talk-davidsmi), [Microsoft ML Server](https://docs.microsoft.com/en-us/machine-learning-server/what-is-machine-learning-server?WT.mc_id=satrdaysdc-talk-davidsmi), [SQL Server](https://docs.microsoft.com/en-us/sql/advanced-analytics/what-is-sql-server-machine-learning?view=sql-server-ver15&WT.mc_id=satrdaysdc-talk-davidsmi), [Power BI](https://docs.microsoft.com/power-bi/desktop-r-visuals?WT.mc_id=satrdaysdc-talk-davidsmi), [Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/spark/latest/sparkr/?WT.mc_id=satrdaysdc-talk-davidsmi), [Azure HDinsight](https://docs.microsoft.com/azure/hdinsight/r-server/r-server-overview?WT.mc_id=satrdaysdc-talk-davidsmi), [Azure Data Science VM](https://docs.microsoft.com/azure/machine-learning/data-science-virtual-machine/tools-included?WT.mc_id=satrdaysdc-talk-davidsmi#program-in-python-r-julia-and-nodejs), [Azure ML](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-r-experiment?WT.mc_id=satrdaysdc-talk-davidsmi), [AzureR](https://github.com/Azure/AzureR), [R Community](https://www.r-consortium.org/members)
 
 [A brief History of R and some Thoughts about Its Future](https://youtu.be/Uey45MSg8Y4) (P. Dalgaard, presentation for [Celebration 2020](https://biostatistics.dk/celebration2020/index.html))
