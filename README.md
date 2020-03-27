@@ -4,7 +4,7 @@ Version 1.0.0 of R was released to the world on February 29, 2000, and had alrea
 
 ## Slides
 
-Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: coming soon
+Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: [PDF Slides](https://github.com/revodavid/20-years-of-R/raw/master/Twenty%20Years%20of%20R%20-%20SatRDays%20DC%20Mar%202020.pdf) 
 
 ## Links
 
