@@ -10,9 +10,13 @@ Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: coming soon
 
 [R, Other Languages and Object-Oriented Programming](http://statweb.stanford.edu/~jmc4/talks/Stanford2010_slides.pdf) (J. M. Chambers, 2010)
 
+[Data Analysts Captivated by R’s Power](https://www.nytimes.com/2009/01/07/technology/business-computing/07program.html) (New York Times, 7 Jan 2009)
+
 [Text of first public announcement of R](https://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html)
 
 [R, Past and Future History](https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf) (R. Ihaka, 1998)
+
+[Donate to the R Foundation](https://www.r-project.org/foundation/donations.html)
 
 [A brief History of R and some Thoughts about Its Future](https://youtu.be/Uey45MSg8Y4) (P. Dalgaard, presentation for [Celebration 2020](https://biostatistics.dk/celebration2020/index.html))
 
