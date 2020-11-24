@@ -6,7 +6,7 @@ Version 1.0.0 of R was released to the world on February 29, 2000, and had alrea
 
 Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: [PDF Slides](https://github.com/revodavid/20-years-of-R/raw/master/Twenty%20Years%20of%20R%20-%20SatRDays%20DC%20Mar%202020.pdf), [video recording](https://youtu.be/iq_biXEIx-U) 
 
-Presented at [confeRence 2020](https://www.r-conference2020.com/) (Malaysia R User Conference), November 2020 as "R at (almost) 21": [PDF Slides](Twenty%20Years%20of%20R%20-%20SatRDays%20DC%20Mar%202020.pdf)
+Presented at [confeRence 2020](https://www.r-conference2020.com/) (Malaysia R User Conference), November 2020 as "R at (almost) 21": [PDF Slides](R%20at%20(almost)%2021%20-%20Malaysia%20R%20Conf.pdf)
 
 ## Links
 
